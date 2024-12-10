@@ -8,7 +8,6 @@ Este é um programa que criei para me ajudar a testar a conexão com o meu banco
 - **Uma outra plataforma**
 
 
-
 ## Como usar
 
 É muito simples. Só precisas passar a tua string de conexão na variável *stringconnection* desse jeito:
@@ -26,6 +25,11 @@ dotnet run
 E terás como resultado `Conexão bem-sucedida!` caso a conexão esteja bem configurada
 
 
+## Atenção
+
+Precisas ter primeiramente o dotnet instalado na tua máquina. É muito importante para que possas executar o comando do dotnet.
+Para isso, tu podes baixar no site da microsoft asseguir:
+- [Download Dotnet SDK](https://dotnet.microsoft.com/en-us/download)
 
 Não esqueça de deixar a tua estrela:star2: se te eu ajudei (*ou não*)! 
 
